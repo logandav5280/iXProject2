@@ -7,6 +7,7 @@
 #'
 #' @examples
 #' maxMinPolutedCity(1)
+#' maxMinPolutedCity(2)
 #' maxMinPolutedCity(3)
 #' @import dplyr Quandl rvest
 
